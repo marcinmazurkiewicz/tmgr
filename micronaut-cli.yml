@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: tmgr
+---
+testFramework: junit
+sourceLanguage: java
